@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../styles/home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.css"/>
+</head>
+<body>
+    
+    <main>
+        <!-- header and navbar -->
+        <header class="header" id="header">
+            <nav class="nav container">
+                <a href="" class="nav-logo">logo</a>
+
+                <div class="nav-menu" id="nav-menu">
+                    <ul class="nav-list">
+                        <li class="nav-item">
+                            <a href="home.html" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="about.html" class="nav-link">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="contact.html" class="nav-link">Contact us</a>
+                        </li>
+                    </ul>
+                    <!-- close btn -->
+                    <div class="nav-close" id="nav-close">
+                        <i class="ri-close-line"></i>
+                    </div>
+                </div>
+
+                <!-- search btn -->
+                <div class="nav-actions">
+                    <i class="ri-search-line"></i>
+                    <div class="icon-card">
+                        <i class="ri-shopping-cart-line"></i>
+                        <span>0</span>
+                    </div>
+                    <div class="nav-toggle" id="nav-toggle">
+                        <i class="ri-menu-line"></i>
+                    </div>
+                </div>
+
+            </nav>
+        </header>
+
+    </main>
+
+
+    <script src="../js/home.js"></script>
+
+</body>
+</html>
