@@ -48,6 +48,64 @@
             </nav>
         </header>
 
+        <!-- carousel-slider section-->
+        <section class="carousel-slider">
+            <ul class="slider" id="slider">
+                <li class="slider-item" style="background-image: url('../images/439-1920x1080.jpg');">
+                    <div class="content">
+                        <h2 class="title">Cars</h2>
+                        <p>I like BMW beacuse is faster But BANZ is a luxury and 
+                            my father likes ford beacuse it is soft... and cars is in my heart i love it car </p>
+                            <button>Read More</button>
+                    </div>
+                </li>
+                <li class="slider-item" style="background-image: url('../images/Hennessey-VelociRaptoR_6X6-2024-1024-01.jpg');">
+                    <div class="content">
+                        <h2 class="title">Cars</h2>
+                        <p>I like BMW beacuse is faster But BANZ is a luxury and 
+                            my father likes ford beacuse it is soft... and cars is in my heart i love it car </p>
+                            <button>Read More</button>
+                    </div>
+                </li>
+                <li class="slider-item" style="background-image: url('../images/Hennessey-VelociRaptoR_6X6-2024-1024-02.jpg');">
+                    <div class="content">
+                        <h2 class="title">Cars</h2>
+                        <p>I like BMW beacuse is faster But BANZ is a luxury and 
+                            my father likes ford beacuse it is soft... and cars is in my heart i love it car </p>
+                            <button>Read More</button>
+                    </div>
+                </li>
+                <li class="slider-item" style="background-image: url('../images/Jowhareh_galleries_2_poster_7373cef2-23c2-4cf2-84cb-1524e151cb2a.jpeg');">
+                    <div class="content">
+                        <h2 class="title">Cars</h2>
+                        <p>I like BMW beacuse is faster But BANZ is a luxury and 
+                            my father likes ford beacuse it is soft... and cars is in my heart i love it car </p>
+                            <button>Read More</button>
+                    </div>
+                </li>
+                <li class="slider-item" style="background-image: url('../images/Jowhareh_galleries_3_poster_19412d25-93f1-4dd9-b2b0-bc65690bd275.jpeg');">
+                    <div class="content">
+                        <h2 class="title">Cars</h2>
+                        <p>I like BMW beacuse is faster But BANZ is a luxury and 
+                            my father likes ford beacuse it is soft... and cars is in my heart i love it car </p>
+                            <button>Read More</button>
+                    </div>
+                </li>
+                <li class="slider-item" style="background-image: url('../images/عکس-ب-ام-و-m4-2024.jpg');">
+                    <div class="content">
+                        <h2 class="title">Cars</h2>
+                        <p>I like BMW beacuse is faster But BANZ is a luxury and 
+                            my father likes ford beacuse it is soft... and cars is in my heart i love it car </p>
+                            <button>Read More</button>
+                    </div>
+                </li>
+            </ul>
+            <nav class="arrow">
+                <i class="ri-arrow-left-line btn prev"></i>
+                <i class="ri-arrow-right-line btn next"></i>
+            </nav>
+        </section>
+
     </main>
 
 
